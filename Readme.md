@@ -1,4 +1,4 @@
-Initial commit: Database Admin Tool v1.0
+Initial commit: POSTGRESQL-MYSQL-WINDOWSUI-PYTHON Database Admin Tool  v1.0
 A Python-based desktop application with Windows UI that provides database administration capabilities for both PostgreSQL and MySQL systems.
 
 Required to be installed ( Windows ):
